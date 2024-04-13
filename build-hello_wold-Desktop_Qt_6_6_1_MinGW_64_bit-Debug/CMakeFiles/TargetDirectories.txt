@@ -1,0 +1,7 @@
+C:/Users/User/Development/git-course/build-hello_wold-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/hello_wold.dir
+C:/Users/User/Development/git-course/build-hello_wold-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Development/git-course/build-hello_wold-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Development/git-course/build-hello_wold-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/User/Development/git-course/build-hello_wold-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/User/Development/git-course/build-hello_wold-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/User/Development/git-course/build-hello_wold-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
